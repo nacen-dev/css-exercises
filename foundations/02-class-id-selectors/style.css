@@ -1,0 +1,19 @@
+body *:nth-child(2n+1) {
+  background-color: lightpink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#first-id {
+  font-size: 36px;
+  color: blue;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#second-id {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
